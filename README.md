@@ -3,7 +3,13 @@ A backend engineer experienced in building microservices with Spring Cloud and c
 
 - **Email:** givepro@naver.com | givepro91@gmail.com  
 - **GitHub:** [https://github.com/givepro91](https://github.com/givepro91)  
-- **Tech blog:** https://givepro.tistory.com  
+- **Tech blog:** https://givepro.tistory.com
+
+### 🏢 Professional Contributions
+
+[Spacewalk](https://spacewalk.tech)에서는 별도 업무용 GitHub 계정([@jay-swk](https://github.com/jay-swk))을 통해 주로 활동하고 있습니다.
+
+👉 [Visit my work GitHub profile](https://github.com/jay-swk)  
 
 ---
 
@@ -28,6 +34,7 @@ A backend engineer experienced in building microservices with Spring Cloud and c
 #### 🧰 Cloud Services
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE7B72?style=for-the-badge&logo=argo&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Spot Ocean](https://img.shields.io/badge/Spot%20Ocean-1A73E8?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 #### 🛠️ Infrastructure & Tools
