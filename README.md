@@ -74,9 +74,14 @@ A backend engineer experienced in building microservices with Spring Cloud and c
 
 ## 🧠 Learning
 
-- GitOps 환경에서 **ArgoCD** 운영 자동화
-- **Ocean by Spot**으로 EKS 비용 최적화
+- AWS(Amazon Web Service) 입문자를 위한 강의
+- 스프링 MVC (백엔드 웹 개발 핵심 기술)
 - Spring Cloud + Kafka 기반 메시징 아키텍처
+- Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
+- GitOps 환경에서 **ArgoCD** 운영 자동화
+- 실무까지한번에끝내는 DevOps를위한 Docker&Kubernetes
+- **Ocean by Spot**으로 EKS 비용 최적화
+
 
 ---
 
