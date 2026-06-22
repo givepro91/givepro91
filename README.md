@@ -5,7 +5,7 @@
 > AI를 붙이는 개발자가 아니라, **AI가 안전하게 일할 수 있는 운영 구조**를 설계하는 사람입니다.
 > 무엇을 만들었나보다, **왜 그렇게 판단했나**를 기록합니다.
 
-- 🪪 **Portfolio — [Grant Works](https://givepro91.github.io)** · 작업과 판단의 기록
+- 🪪 **Portfolio — [Keunsik Works](https://givepro91.github.io)** · 작업과 판단의 기록
 - 📄 **이력 / CV — [givepro91.github.io/cv](https://givepro91.github.io/cv)**
 - ✍️ **Brunch — [장근식 Jay](https://brunch.co.kr/@eb877c69f69b451)** · **Tistory — [givepro.tistory.com](https://givepro.tistory.com)**
 - 💼 **LinkedIn — [근식 장](https://www.linkedin.com/in/근식-장-8620b0199/)**
@@ -21,7 +21,7 @@
 
 ### 🧰 Featured (개인 프로젝트 · OSS)
 
-- **[Grant Works](https://givepro91.github.io)** — 작업·판단 기록 포트폴리오 (Astro, github.io)
+- **[Keunsik Works](https://givepro91.github.io)** — 작업·판단 기록 포트폴리오 (Astro, github.io)
 - **[markwand](https://github.com/givepro91/markwand)** — AI 산출물 마크다운 큐레이터 (Electron · React · TS)
 - **[cc-roadmap](https://github.com/givepro91/cc-roadmap)** — ‘구현됨 ≠ 사용자 도달’을 증거로 감사하는 Claude Code 플러그인
 - **[cc-handoff](https://github.com/givepro91/cc-handoff)** — 세션·머신을 넘어 컨텍스트를 잇는 핸드오프 플러그인
@@ -74,4 +74,4 @@
 
 ---
 
-<sub>backend → 운영·제품으로 역할을 넓혀가는 중. give → grant, 내어주는 작업들.</sub>
+<sub>backend → 운영·제품으로 역할을 넓혀가는 중. 내어주는 작업들.</sub>
